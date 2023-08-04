@@ -1,1 +1,1 @@
-Print ("coucou")
+print ("coucou")
