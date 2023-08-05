@@ -1,2 +1,2 @@
-print ("coucou")
-print ("bisous")
+print ("coucou bisous coucou")
+
